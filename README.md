@@ -30,7 +30,7 @@
 ## <b>Contate-me</b>
 <div>
 
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-carlos-oliveira-bueno-5577b6262/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-/JoãoCarlos-blue?style=for-the-badge&logo=Linkedin&logoColor=ffffff"></a> &nbsp;
+  <a href="https://www.linkedin.com/in/joaocarlosoliveirabueno/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-/JoãoCarlos-blue?style=for-the-badge&logo=Linkedin&logoColor=ffffff"></a> &nbsp;
   <a href="https://github.com/JC-JoaoC" target="_blank"><img src="https://img.shields.io/badge/GitHub-/JoaoC-blue?style=for-the-badge&logo=GitHub&logoColor=ffffff"></a> &nbsp;
 
 </div>
