@@ -32,5 +32,8 @@
 
   <a href="https://www.linkedin.com/in/joaocarlosoliveirabueno/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-/JoãoCarlos-blue?style=for-the-badge&logo=Linkedin&logoColor=ffffff"></a> &nbsp;
   <a href="https://github.com/JC-JoaoC" target="_blank"><img src="https://img.shields.io/badge/GitHub-/JoaoC-blue?style=for-the-badge&logo=GitHub&logoColor=ffffff"></a> &nbsp;
+  <a href="https://joaoc.pages.dev/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-/JoaoC-blue?style=for-the-badge&logo=React&logoColor=ffffff"></a> &nbsp;
+
+
 
 </div>
