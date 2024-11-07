@@ -1,6 +1,6 @@
 ## <b>Sobre mim</b>
 🎓 Nome: João Carlos Oliveira Bueno <br />
-👦 Idade: 19 anos <br />
+👦 Idade: 20 anos <br />
 🔎 Local: Guarulhos - São Paulo <br />
 
 ###  Linguagens & Tecnologias
