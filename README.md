@@ -6,18 +6,10 @@
 ###  Linguagens & Tecnologias
 
 <div>
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffffff" />
-</div>
-<div>
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=ffffff" />
-</div>
- <div>
-  <img src="https://img.shields.io/badge/VS%20Code-000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/VS%20Code-000000.svg?style=for-the-badge&logo=codecrafters&logoColor=ffffff" />
    <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=ffffff" />
  </div>
 <br />
